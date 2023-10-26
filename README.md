@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<h1 font-size="30px"> BeFit is a Customised Sports and Gym Website </h1>
+<br/>
+<p>This was a collaborative project made by 4 members Executed in 5 days.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Trilochan Prasad
+- Gaurav Shukla 
+- Pravin 
+- Mukesh D. 
+<br/>
 
-## Available Scripts
 
-In the project directory, you can run:
+<br/>
+Link of our deployed project:  https://moonlit-spoon-3401-trilochanprasadbh.vercel.app/
+<br/>
 
-### `npm start`
+## Tech Stack and Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- HTML5
+- CSS
+- JavaScript
+- React
+- Redux
+- Material UI
+- Chakra UI 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Pages and features
+- Home Page:- Navigation Bar, Footer.
+- Admin Page :- Admin dashboard, CRUD operation on Products.
+- Account Page:- User authentication using json server. 
+- Product Page:- It has sorting ,filtering, url params update functionality.
+- Checkout Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1280" alt="Screenshot 2023-05-13 at 3 26 22 PM" src="https://github.com/mdasriya/moonlit-spoon-3401/assets/104064013/031ccddf-5847-41f3-b295-482e6f0f341e">
+<img width="1280" alt="Screenshot 2023-05-13 at 3 26 35 PM" src="https://github.com/mdasriya/moonlit-spoon-3401/assets/104064013/9811ce0d-324b-48dc-9894-fdca15cc9993">
+<img width="1280" alt="Screenshot 2023-05-13 at 3 26 45 PM" src="https://github.com/mdasriya/moonlit-spoon-3401/assets/104064013/d08e1e9c-c939-4696-a798-84464380853b">
+<img width="1280" alt="Screenshot 2023-05-13 at 3 27 36 PM" src="https://github.com/mdasriya/moonlit-spoon-3401/assets/104064013/20cf2af4-a1c5-45ff-952b-6ff1f465e5dd">
+<img width="1280" alt="Screenshot 2023-05-13 at 3 27 57 PM" src="https://github.com/mdasriya/moonlit-spoon-3401/assets/104064013/b8c29114-404d-4ded-b03c-54f2da7337b9">
+<img width="1280" alt="Screenshot 2023-05-13 at 3 28 02 PM" src="https://github.com/mdasriya/moonlit-spoon-3401/assets/104064013/83f863b1-e23b-4b08-80d2-b4f3ecaf49b3">
+<img width="1280" alt="Screenshot 2023-05-13 at 3 28 07 PM" src="https://github.com/mdasriya/moonlit-spoon-3401/assets/104064013/5e85dffe-8a51-4014-845c-86043a50956e">
+<img width="1280" alt="Screenshot 2023-05-13 at 3 28 13 PM" src="https://github.com/mdasriya/moonlit-spoon-3401/assets/104064013/35db71b3-e3f7-4f97-89f5-13a6913bc800">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
