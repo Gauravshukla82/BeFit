@@ -1,5 +1,6 @@
 <h1 font-size="30px"> BeFit is a Customised Sports and Gym Website </h1>
 <br/>
+BeFit is a gym website which acts as virtual fitness hub providing access to workout schedules, training programs, and health tips, enabling users to achieve their fitness goals with convenience and expert guidance.
 <p>This was a collaborative project made by 4 members Executed in 5 days.</p>
 
 - Trilochan Prasad
